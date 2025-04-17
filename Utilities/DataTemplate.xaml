@@ -1,0 +1,14 @@
+﻿<ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                    xmlns:vm="clr-namespace:WPFModernVerticalMenu.ViewsModels"
+                    xmlns:view="clr-namespace:WPFModernVerticalMenu.Views">
+
+    <DataTemplate DataType="{x:Type vm:VMHome}">
+        <view:Home />
+    </DataTemplate>
+
+    <DataTemplate DataType="{x:Type vm:VMDashboard}">
+        <view:Dashboard />
+    </DataTemplate>
+
+</ResourceDictionary>

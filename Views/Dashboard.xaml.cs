@@ -13,7 +13,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPFModernVerticalMenu.Pages
+namespace WPFModernVerticalMenu.Views
 {
     /// <summary>
     /// Lógica de interacción para Dashboard.xaml

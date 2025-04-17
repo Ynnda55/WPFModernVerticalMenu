@@ -12,17 +12,19 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using WPFModernVerticalMenu.ViewsModels;
 
-namespace WPFModernVerticalMenu.Pages
+namespace WPFModernVerticalMenu.Views
 {
     /// <summary>
-    /// Lógica de interacción para Home.xaml
+    /// Interaction logic for Home.xaml
     /// </summary>
-    public partial class Home : Page
+    public partial class Home : UserControl
     {
         public Home()
         {
             InitializeComponent();
+            //this.DataContext = new VMHome();
         }
     }
 }

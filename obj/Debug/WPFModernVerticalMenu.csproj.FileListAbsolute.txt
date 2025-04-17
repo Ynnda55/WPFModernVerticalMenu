@@ -26,3 +26,32 @@ C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Pages\Home
 C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Pages\Home.baml
 C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Pages\Dashboard.g.cs
 C:\Users\JEYDERHT\Desktop\UI Controls\WPFModernVerticalMenu\obj\Debug\Pages\Dashboard.baml
+C:\Desarrollo\InventoryAppWPF\bin\Debug\WPFModernVerticalMenu.exe.config
+C:\Desarrollo\InventoryAppWPF\bin\Debug\WPFModernVerticalMenu.exe
+C:\Desarrollo\InventoryAppWPF\bin\Debug\WPFModernVerticalMenu.pdb
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu.csproj.AssemblyReference.cache
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Controls\MenuItem.g.cs
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Controls\UserPopup.g.cs
+C:\Desarrollo\InventoryAppWPF\obj\Debug\MainWindow.g.cs
+C:\Desarrollo\InventoryAppWPF\obj\Debug\App.g.cs
+C:\Desarrollo\InventoryAppWPF\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu_MarkupCompile.cache
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu_MarkupCompile.lref
+C:\Desarrollo\InventoryAppWPF\obj\Debug\App.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Assets\Icons.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Controls\MenuItem.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Controls\UserPopup.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\MainWindow.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Styles\MainStyle.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Themes\DarkTheme.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu.g.resources
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu.Properties.Resources.resources
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu.csproj.GenerateResource.cache
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu.csproj.CoreCompileInputs.cache
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu.exe
+C:\Desarrollo\InventoryAppWPF\obj\Debug\WPFModernVerticalMenu.pdb
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Views\Dashboard.g.cs
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Views\Home.g.cs
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Views\Dashboard.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Views\Home.baml
+C:\Desarrollo\InventoryAppWPF\obj\Debug\Utilities\DataTemplate.baml

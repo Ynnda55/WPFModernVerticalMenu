@@ -7,11 +7,13 @@
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
                 
-                <ResourceDictionary Source="Themes/DarkTheme.xaml"/>
+                <ResourceDictionary Source="Themes/DarkTheme.xaml" />
 
-                <ResourceDictionary Source="Assets/Icons.xaml"/>
+                <ResourceDictionary Source="Assets/Icons.xaml" />
 
-                <ResourceDictionary Source="Styles/MainStyle.xaml"/>
+                <ResourceDictionary Source="Styles/MainStyle.xaml" />
+
+                <ResourceDictionary Source="Utilities/DataTemplate.xaml" />
 
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
